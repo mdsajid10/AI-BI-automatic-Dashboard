@@ -1,0 +1,501 @@
+Date,Region,Product,Category,Revenue,Quantity,Rating,Customer_Type,Discount_Pct,Profit_Margin
+2023-01-01 00:00:00.000000000,South,Tool Lite,Tools,337.64,64,3.5,Consumer,17.9,12.3
+2023-01-02 11:06:36.793587174,Central,Accessory Z,Tools,1020.7,98,4.1,Consumer,7.9,11.3
+2023-01-03 22:13:13.587174348,West,Widget A,Tools,2826.32,89,2.9,Small Business,19.9,38.1
+2023-01-05 09:19:50.380761523,East,Widget A,Tools,646.41,10,3.8,Consumer,24.4,6.7
+2023-01-06 20:26:27.174348697,North,Widget A,Accessories,2486.21,21,3.0,Small Business,23.3,21.8
+2023-01-08 07:33:03.967935871,North,Tool Pro,Accessories,1180.0,46,4.5,Small Business,22.8,11.7
+2023-01-09 18:39:40.761523046,North,Gadget Y,Electronics,362.02,91,4.6,Enterprise,5.6,40.2
+2023-01-11 05:46:17.555110220,Central,Tool Pro,Electronics,452.21,27,3.5,Small Business,2.7,27.3
+2023-01-12 16:52:54.348697394,East,Gadget Y,Electronics,2288.02,66,4.3,Enterprise,21.0,14.3
+2023-01-14 03:59:31.142284569,West,Tool Pro,Electronics,1706.19,41,4.5,Enterprise,11.1,25.1
+2023-01-15 15:06:07.935871743,North,Tool Pro,Tools,1189.65,13,4.5,Consumer,13.0,34.3
+2023-01-17 02:12:44.729458917,Central,Tool Lite,Accessories,880.75,9,4.1,Enterprise,0.9,43.3
+2023-01-18 13:19:21.523046092,West,Gadget X,Electronics,1297.84,36,4.4,Enterprise,7.8,13.8
+2023-01-20 00:25:58.316633266,North,Tool Pro,Electronics,2217.72,86,3.6,Enterprise,1.0,40.4
+2023-01-21 11:32:35.110220440,North,Tool Lite,Electronics,3571.29,90,4.0,Consumer,26.4,42.4
+2023-01-22 22:39:11.903807615,North,Widget B,Tools,3710.59,58,3.7,Small Business,7.3,41.7
+2023-01-24 09:45:48.697394789,South,Gadget X,Tools,1476.7,54,3.6,Small Business,16.7,30.4
+2023-01-25 20:52:25.490981963,East,Tool Pro,Electronics,955.71,12,4.0,Consumer,,30.2
+2023-01-27 07:59:02.284569138,South,Accessory Z,Accessories,1232.74,81,4.2,Consumer,20.0,21.1
+2023-01-28 19:05:39.078156312,South,Widget A,Tools,1665.19,78,4.7,Enterprise,9.7,35.1
+2023-01-30 06:12:15.871743487,East,Widget B,Electronics,1659.8,14,4.2,Small Business,26.9,26.3
+2023-01-31 17:18:52.665330661,North,Widget B,Tools,3122.5,34,4.4,Consumer,26.6,32.1
+2023-02-02 04:25:29.458917835,South,Tool Lite,Tools,5958.68,53,4.4,Small Business,9.8,22.1
+2023-02-03 15:32:06.252505010,South,Widget B,Electronics,930.57,20,5.0,Enterprise,27.0,34.3
+2023-02-05 02:38:43.046092184,South,Gadget X,Electronics,6153.08,75,2.9,Consumer,29.9,38.0
+2023-02-06 13:45:19.839679358,West,Tool Pro,Electronics,2801.17,16,3.6,Small Business,24.8,10.9
+2023-02-08 00:51:56.633266533,North,Tool Pro,Electronics,1011.65,95,4.9,Enterprise,25.3,38.3
+2023-02-09 11:58:33.426853707,East,Accessory Z,Accessories,3636.77,70,3.8,Small Business,7.5,26.6
+2023-02-10 23:05:10.220440881,East,Widget A,Accessories,4223.92,56,4.5,Enterprise,17.3,38.8
+2023-02-12 10:11:47.014028056,North,Tool Lite,Electronics,758.82,83,4.1,Enterprise,,22.3
+2023-02-13 21:18:23.807615230,East,Widget A,Electronics,4384.24,58,5.0,Consumer,2.8,20.2
+2023-02-15 08:25:00.601202404,North,Widget B,Electronics,2591.69,4,3.3,Enterprise,30.0,41.6
+2023-02-16 19:31:37.394789579,North,Accessory Z,Electronics,7294.29,4,4.7,Small Business,9.8,15.0
+2023-02-18 06:38:14.188376753,Central,Widget A,Accessories,781.15,20,5.0,Small Business,22.4,38.8
+2023-02-19 17:44:50.981963927,Central,Gadget X,Electronics,826.55,10,3.4,Enterprise,24.2,24.4
+2023-02-21 04:51:27.775551102,West,Tool Pro,Electronics,216.73,24,4.5,Consumer,25.7,25.6
+2023-02-22 15:58:04.569138276,South,Widget B,Electronics,1731.87,99,3.4,Enterprise,29.9,17.3
+2023-02-24 03:04:41.362725451,North,Accessory Z,Tools,1480.6,26,4.0,Enterprise,7.2,27.9
+2023-02-25 14:11:18.156312625,West,Widget A,Electronics,698.97,37,3.8,Enterprise,1.2,18.0
+2023-02-27 01:17:54.949899799,South,Tool Lite,Tools,1027.13,85,2.6,Enterprise,12.3,6.6
+2023-02-28 12:24:31.743486974,North,Gadget X,Electronics,384.15,54,,Enterprise,3.9,15.9
+2023-03-01 23:31:08.537074148,South,Gadget X,Tools,2860.51,21,4.1,Small Business,0.7,5.3
+2023-03-03 10:37:45.330661322,North,Widget A,Tools,741.18,74,4.9,Consumer,10.8,44.1
+2023-03-04 21:44:22.124248497,Central,Tool Pro,Electronics,13032.99,38,4.4,Enterprise,23.5,43.6
+2023-03-06 08:50:58.917835671,North,Widget A,Electronics,952.91,46,5.0,Small Business,17.0,20.8
+2023-03-07 19:57:35.711422845,East,Widget B,Accessories,597.23,4,4.1,Small Business,9.4,34.1
+2023-03-09 07:04:12.505010020,South,Widget A,Accessories,788.51,60,,Consumer,19.6,18.8
+2023-03-10 18:10:49.298597194,East,Gadget X,Tools,354.4,57,3.9,Small Business,7.0,31.8
+2023-03-12 05:17:26.092184368,East,Accessory Z,Tools,1612.95,45,3.7,Enterprise,0.4,37.2
+2023-03-13 16:24:02.885771543,North,Widget A,Accessories,783.74,20,2.7,Enterprise,22.9,42.9
+2023-03-15 03:30:39.679358717,Central,Tool Pro,Tools,2710.81,17,3.9,Small Business,18.7,21.0
+2023-03-16 14:37:16.472945892,West,Accessory Z,Electronics,880.25,71,2.8,Consumer,22.9,36.3
+2023-03-18 01:43:53.266533066,Central,Tool Lite,Accessories,3319.45,4,4.3,Enterprise,1.2,15.6
+2023-03-19 12:50:30.060120240,Central,Gadget Y,Electronics,2010.15,93,3.3,Small Business,25.1,44.6
+2023-03-20 23:57:06.853707415,East,Widget A,Tools,1122.01,14,3.5,Consumer,18.6,6.0
+2023-03-22 11:03:43.647294589,Central,Tool Pro,Electronics,3882.31,3,3.6,Consumer,16.9,29.1
+2023-03-23 22:10:20.440881763,North,Accessory Z,Electronics,2349.21,88,3.9,Consumer,18.7,31.4
+2023-03-25 09:16:57.234468938,North,Tool Pro,Electronics,11579.25,80,4.0,Consumer,25.9,32.5
+2023-03-26 20:23:34.028056112,North,Tool Lite,Tools,790.32,58,4.7,Small Business,17.6,9.8
+2023-03-28 07:30:10.821643286,South,Gadget X,Electronics,1165.95,55,3.7,Small Business,17.4,42.5
+2023-03-29 18:36:47.615230461,South,Tool Pro,Electronics,3846.69,4,4.3,Small Business,29.7,12.2
+2023-03-31 05:43:24.408817635,North,Accessory Z,Electronics,318.99,24,5.0,Enterprise,22.7,29.9
+2023-04-01 16:50:01.202404809,West,Tool Pro,Tools,3144.95,34,4.2,Small Business,13.3,13.9
+2023-04-03 03:56:37.995991984,South,Tool Pro,Accessories,1558.44,30,3.9,Small Business,21.2,17.3
+2023-04-04 15:03:14.789579158,South,Tool Pro,Tools,538.85,82,3.5,Enterprise,11.7,26.9
+2023-04-06 02:09:51.583166332,East,Widget B,Tools,368.55,19,3.9,Consumer,6.9,21.7
+2023-04-07 13:16:28.376753507,North,Widget B,Accessories,640.35,31,3.5,Small Business,17.9,11.4
+2023-04-09 00:23:05.170340681,West,Gadget X,Tools,176.29,60,4.2,Consumer,27.8,11.8
+2023-04-10 11:29:41.963927855,North,Widget A,Electronics,741.27,60,4.1,Enterprise,27.9,21.7
+2023-04-11 22:36:18.757515030,Central,Tool Pro,Electronics,1804.51,19,2.7,Enterprise,10.3,35.3
+2023-04-13 09:42:55.551102204,West,Tool Lite,Electronics,749.17,49,4.0,Small Business,15.8,40.9
+2023-04-14 20:49:32.344689378,North,Widget A,Electronics,3329.74,63,4.6,Enterprise,6.3,8.4
+2023-04-16 07:56:09.138276552,North,Tool Lite,Electronics,4137.96,83,3.8,Small Business,29.9,20.7
+2023-04-17 19:02:45.931863728,West,Widget A,Tools,3042.75,22,3.6,Consumer,29.4,9.0
+2023-04-19 06:09:22.725450902,West,Gadget X,Electronics,1318.85,24,3.2,Enterprise,19.5,5.7
+2023-04-20 17:15:59.519038076,West,Tool Pro,Tools,170.76,76,2.9,Small Business,24.1,31.5
+2023-04-22 04:22:36.312625250,West,Tool Pro,Tools,624.56,30,4.5,Small Business,21.5,29.1
+2023-04-23 15:29:13.106212424,North,Gadget Y,Electronics,978.84,58,3.9,Small Business,17.8,11.5
+2023-04-25 02:35:49.899799598,South,Tool Lite,Accessories,536.41,31,4.5,Consumer,1.6,14.4
+2023-04-26 13:42:26.693386774,North,Widget A,Tools,980.83,64,4.9,Consumer,13.6,5.9
+2023-04-28 00:49:03.486973948,Central,Widget A,Electronics,3976.09,19,4.6,Small Business,20.2,38.4
+2023-04-29 11:55:40.280561122,East,Widget B,Tools,293.94,48,3.7,Small Business,20.3,44.0
+2023-04-30 23:02:17.074148296,South,Gadget Y,Tools,4672.05,45,4.1,Small Business,11.2,10.4
+2023-05-02 10:08:53.867735470,North,Accessory Z,Tools,2225.6,94,3.6,Consumer,28.3,14.3
+2023-05-03 21:15:30.661322644,South,Accessory Z,Tools,1359.09,55,3.6,Small Business,5.0,39.7
+2023-05-05 08:22:07.454909820,South,Widget B,Tools,619.62,55,4.2,Small Business,15.0,42.1
+2023-05-06 19:28:44.248496994,West,Widget B,Tools,545.03,97,3.5,Consumer,20.7,21.8
+2023-05-08 06:35:21.042084168,East,Widget B,Electronics,298.58,18,2.7,Enterprise,20.9,7.0
+2023-05-09 17:41:57.835671342,Central,Tool Lite,Electronics,4330.39,63,3.5,Consumer,19.5,6.6
+2023-05-11 04:48:34.629258516,South,Tool Lite,Electronics,3752.17,92,3.8,Enterprise,8.3,28.0
+2023-05-12 15:55:11.422845690,North,Gadget X,Tools,356.01,47,4.9,Enterprise,4.7,20.7
+2023-05-14 03:01:48.216432866,West,Gadget X,Electronics,704.79,75,3.7,Enterprise,19.1,6.1
+2023-05-15 14:08:25.010020040,West,Widget B,Accessories,1550.78,57,4.3,Consumer,18.0,28.3
+2023-05-17 01:15:01.803607214,East,Gadget Y,Tools,862.98,45,3.9,Consumer,5.4,5.5
+2023-05-18 12:21:38.597194388,West,Widget A,Accessories,236.29,33,4.7,Small Business,21.2,36.5
+2023-05-19 23:28:15.390781562,South,Tool Lite,Accessories,647.93,17,4.7,Small Business,13.7,17.3
+2023-05-21 10:34:52.184368736,East,Gadget Y,Accessories,5223.0,70,4.7,Small Business,20.0,6.6
+2023-05-22 21:41:28.977955912,South,Tool Pro,Accessories,684.04,4,3.0,Consumer,25.1,28.5
+2023-05-24 08:48:05.771543086,North,Tool Lite,Electronics,962.2,20,4.1,Small Business,5.1,20.9
+2023-05-25 19:54:42.565130260,North,Tool Lite,Tools,438.72,47,4.5,Small Business,0.6,44.0
+2023-05-27 07:01:19.358717434,North,Gadget X,Electronics,1754.98,91,4.2,Enterprise,23.4,26.8
+2023-05-28 18:07:56.152304608,East,Widget A,Electronics,1202.46,15,4.4,Consumer,18.3,16.0
+2023-05-30 05:14:32.945891784,South,Widget A,Tools,605.7,70,4.0,Small Business,21.0,33.4
+2023-05-31 16:21:09.739478958,East,Accessory Z,Tools,386.17,47,3.6,Small Business,25.1,15.9
+2023-06-02 03:27:46.533066132,Central,Accessory Z,Electronics,3373.26,78,3.0,Enterprise,24.1,41.2
+2023-06-03 14:34:23.326653306,North,Accessory Z,Tools,303.56,75,3.6,Consumer,28.8,20.0
+2023-06-05 01:41:00.120240480,South,Accessory Z,Accessories,1640.99,9,5.0,Enterprise,16.1,27.0
+2023-06-06 12:47:36.913827654,West,Tool Pro,Tools,195.76,90,3.7,Small Business,,7.0
+2023-06-07 23:54:13.707414830,North,Tool Pro,Tools,1930.95,16,2.8,Consumer,12.1,22.0
+2023-06-09 11:00:50.501002004,North,Tool Lite,Accessories,2383.29,69,4.4,Small Business,4.6,38.3
+2023-06-10 22:07:27.294589178,South,Widget B,Accessories,2632.86,61,4.5,Enterprise,17.2,37.2
+2023-06-12 09:14:04.088176352,North,Gadget X,Tools,963.94,10,4.8,Small Business,8.3,14.0
+2023-06-13 20:20:40.881763526,Central,Gadget X,Accessories,3894.04,50,4.3,Consumer,27.6,14.0
+2023-06-15 07:27:17.675350700,West,Accessory Z,Accessories,6948.17,3,4.5,Small Business,17.5,37.7
+2023-06-16 18:33:54.468937876,East,Tool Lite,Accessories,847.85,77,5.0,Consumer,17.8,42.2
+2023-06-18 05:40:31.262525050,Central,Gadget Y,Electronics,764.48,94,,Enterprise,10.6,8.8
+2023-06-19 16:47:08.056112224,West,Widget B,Electronics,1235.64,70,3.4,Small Business,1.6,23.0
+2023-06-21 03:53:44.849699398,North,Tool Lite,Electronics,748.34,81,3.3,Small Business,1.0,18.5
+2023-06-22 15:00:21.643286572,Central,Widget B,Electronics,665.74,51,3.8,Consumer,12.7,39.8
+2023-06-24 02:06:58.436873746,East,Widget B,Tools,713.8,19,4.9,Enterprise,2.5,8.3
+2023-06-25 13:13:35.230460922,West,Widget B,Tools,4326.89,42,4.3,Consumer,18.2,13.4
+2023-06-27 00:20:12.024048096,Central,Tool Lite,Accessories,2033.48,35,4.3,Small Business,26.4,35.1
+2023-06-28 11:26:48.817635270,South,Accessory Z,Electronics,746.39,46,2.9,Small Business,26.5,7.1
+2023-06-29 22:33:25.611222444,North,Gadget X,Accessories,153.84,26,3.6,Enterprise,19.8,24.7
+2023-07-01 09:40:02.404809618,North,Gadget X,Tools,318.76,69,2.9,Consumer,6.3,22.7
+2023-07-02 20:46:39.198396792,South,Accessory Z,Tools,1640.48,93,4.7,Enterprise,25.9,18.4
+2023-07-04 07:53:15.991983968,West,Widget B,Accessories,200.89,64,5.0,Enterprise,26.6,20.8
+2023-07-05 18:59:52.785571142,Central,Gadget Y,Tools,1386.3,37,4.5,Enterprise,5.9,26.2
+2023-07-07 06:06:29.579158316,North,Widget A,Electronics,467.57,84,3.4,Consumer,22.1,11.5
+2023-07-08 17:13:06.372745490,East,Tool Lite,Accessories,1180.21,49,4.9,Small Business,8.6,27.9
+2023-07-10 04:19:43.166332664,South,Widget A,Electronics,1154.11,21,3.8,Consumer,24.1,37.2
+2023-07-11 15:26:19.959919840,North,Accessory Z,Electronics,1207.7,74,3.3,Enterprise,29.9,35.4
+2023-07-13 02:32:56.753507014,North,Gadget Y,Accessories,799.88,64,,Small Business,0.9,11.2
+2023-07-14 13:39:33.547094188,South,Tool Lite,Electronics,779.13,5,3.7,Small Business,26.9,11.0
+2023-07-16 00:46:10.340681362,Central,Accessory Z,Tools,616.07,70,4.0,Consumer,18.7,15.7
+2023-07-17 11:52:47.134268536,South,Widget B,Electronics,1615.04,90,3.9,Consumer,29.2,19.4
+2023-07-18 22:59:23.927855710,East,Gadget X,Accessories,2088.4,4,,Enterprise,14.0,21.3
+2023-07-20 10:06:00.721442886,West,Widget A,Electronics,413.57,39,4.7,Small Business,25.4,32.2
+2023-07-21 21:12:37.515030060,South,Tool Pro,Accessories,1052.26,35,3.9,Enterprise,1.9,7.3
+2023-07-23 08:19:14.308617234,Central,Tool Pro,Tools,1283.4,1,3.6,Small Business,10.1,6.4
+2023-07-24 19:25:51.102204408,Central,Gadget Y,Electronics,1270.31,24,4.7,Enterprise,2.0,20.7
+2023-07-26 06:32:27.895791582,North,Widget B,Tools,1253.15,57,3.3,Enterprise,29.3,32.9
+2023-07-27 17:39:04.689378756,South,Widget A,Accessories,795.02,70,3.0,Small Business,24.5,12.7
+2023-07-29 04:45:41.482965932,South,Widget B,Tools,1370.9,41,4.8,Small Business,25.6,30.7
+2023-07-30 15:52:18.276553104,South,Widget A,Electronics,1797.99,54,5.0,Enterprise,28.1,15.4
+2023-08-01 02:58:55.070140280,North,Gadget Y,Tools,1227.62,46,3.7,Small Business,2.6,40.4
+2023-08-02 14:05:31.863727456,East,Gadget Y,Tools,1643.78,60,4.0,Small Business,11.6,40.8
+2023-08-04 01:12:08.657314628,East,Tool Pro,Tools,2421.84,60,3.3,Enterprise,2.1,16.9
+2023-08-05 12:18:45.450901804,North,Widget B,Tools,249.45,57,,Consumer,6.3,14.2
+2023-08-06 23:25:22.244488976,North,Tool Lite,Electronics,2332.68,31,3.7,Enterprise,6.9,21.5
+2023-08-08 10:31:59.038076152,Central,Tool Pro,Electronics,1442.22,84,3.9,Small Business,14.1,14.6
+2023-08-09 21:38:35.831663324,North,Widget B,Tools,450.65,24,4.2,Small Business,8.1,31.9
+2023-08-11 08:45:12.625250500,North,Tool Pro,Electronics,2083.86,89,3.3,Enterprise,3.0,38.0
+2023-08-12 19:51:49.418837676,South,Tool Lite,Electronics,797.39,36,3.8,Enterprise,5.0,31.9
+2023-08-14 06:58:26.212424848,Central,Gadget X,Accessories,889.29,85,2.9,Small Business,4.4,38.0
+2023-08-15 18:05:03.006012024,North,Gadget X,Tools,730.59,30,3.8,Consumer,29.2,20.9
+2023-08-17 05:11:39.799599196,East,Gadget X,Tools,1396.77,24,3.9,Small Business,22.8,11.3
+2023-08-18 16:18:16.593186372,West,Gadget X,Accessories,585.06,30,4.1,Small Business,29.0,34.5
+2023-08-20 03:24:53.386773548,North,Accessory Z,Tools,2255.62,86,4.1,Small Business,13.2,19.4
+2023-08-21 14:31:30.180360720,West,Widget A,Accessories,981.33,92,4.5,Enterprise,8.4,31.9
+2023-08-23 01:38:06.973947896,South,Accessory Z,Tools,819.45,7,3.1,Small Business,23.9,15.8
+2023-08-24 12:44:43.767535068,East,Accessory Z,Electronics,2002.8,35,3.1,Consumer,9.8,8.2
+2023-08-25 23:51:20.561122244,East,Accessory Z,Electronics,849.25,55,4.3,Enterprise,9.0,44.7
+2023-08-27 10:57:57.354709420,East,Gadget X,Tools,2341.49,92,2.8,Enterprise,7.0,11.2
+2023-08-28 22:04:34.148296592,North,Tool Lite,Tools,2401.08,14,4.1,Enterprise,3.9,44.5
+2023-08-30 09:11:10.941883768,West,Gadget Y,Electronics,376.97,10,3.3,Small Business,7.7,44.1
+2023-08-31 20:17:47.735470940,South,Gadget Y,Electronics,2663.53,80,4.9,Consumer,10.7,36.8
+2023-09-02 07:24:24.529058116,North,Widget A,Electronics,340.49,16,4.2,Enterprise,20.2,31.4
+2023-09-03 18:31:01.322645288,North,Gadget X,Electronics,2799.69,54,3.9,Small Business,1.9,28.1
+2023-09-05 05:37:38.116232464,East,Gadget X,Tools,5556.29,95,4.7,Enterprise,6.3,39.6
+2023-09-06 16:44:14.909819640,East,Gadget X,Electronics,2208.06,89,3.4,Consumer,24.3,16.6
+2023-09-08 03:50:51.703406812,North,Tool Pro,Tools,195.28,77,3.5,Enterprise,4.4,23.7
+2023-09-09 14:57:28.496993988,East,Widget B,Tools,2567.92,70,3.2,Small Business,10.3,29.8
+2023-09-11 02:04:05.290581160,North,Tool Pro,Tools,6613.73,44,3.5,Small Business,25.9,21.4
+2023-09-12 13:10:42.084168336,East,Widget B,Accessories,860.55,73,4.0,Small Business,4.6,22.1
+2023-09-14 00:17:18.877755512,North,Gadget X,Electronics,1066.61,45,,Small Business,2.5,18.2
+2023-09-15 11:23:55.671342684,West,Gadget X,Tools,423.78,56,4.6,Enterprise,14.5,27.6
+2023-09-16 22:30:32.464929860,South,Tool Pro,Electronics,1407.63,84,2.9,Small Business,9.1,39.0
+2023-09-18 09:37:09.258517032,Central,Tool Pro,Electronics,3027.04,82,3.9,Enterprise,16.9,13.1
+2023-09-19 20:43:46.052104208,North,Widget B,Accessories,1916.37,57,3.3,Enterprise,24.1,42.4
+2023-09-21 07:50:22.845691380,South,Gadget Y,Electronics,13542.3,21,,Small Business,4.1,32.6
+2023-09-22 18:56:59.639278556,North,Widget B,Electronics,1125.99,68,5.0,Enterprise,17.4,37.9
+2023-09-24 06:03:36.432865732,Central,Tool Pro,Tools,297.51,50,4.2,Enterprise,15.2,27.2
+2023-09-25 17:10:13.226452904,Central,Tool Lite,Electronics,1257.37,33,4.5,Small Business,4.3,36.2
+2023-09-27 04:16:50.020040080,North,Tool Pro,Accessories,158.67,91,5.0,Consumer,18.7,5.6
+2023-09-28 15:23:26.813627252,East,Tool Lite,Electronics,715.88,7,4.7,Small Business,8.2,37.7
+2023-09-30 02:30:03.607214428,West,Widget A,Accessories,4021.88,70,3.7,Enterprise,14.6,6.6
+2023-10-01 13:36:40.400801604,East,Tool Pro,Tools,1422.41,15,3.2,Enterprise,2.5,40.6
+2023-10-03 00:43:17.194388776,East,Widget A,Tools,1265.89,82,4.0,Consumer,13.8,44.7
+2023-10-04 11:49:53.987975952,North,Gadget Y,Accessories,4706.14,32,3.7,Enterprise,9.2,16.8
+2023-10-05 22:56:30.781563124,North,Widget B,Electronics,883.17,75,3.1,Enterprise,24.7,13.4
+2023-10-07 10:03:07.575150300,Central,Tool Lite,Accessories,3009.28,20,4.1,Small Business,1.7,35.6
+2023-10-08 21:09:44.368737472,Central,Widget B,Electronics,1216.15,88,4.2,Small Business,12.6,15.1
+2023-10-10 08:16:21.162324648,East,Widget A,Tools,1486.29,15,5.0,Small Business,13.8,39.6
+2023-10-11 19:22:57.955911824,South,Tool Lite,Electronics,414.12,48,3.8,Enterprise,21.8,9.1
+2023-10-13 06:29:34.749498996,South,Widget B,Tools,745.73,71,4.2,Enterprise,17.2,10.0
+2023-10-14 17:36:11.543086172,West,Tool Pro,Electronics,358.52,21,3.6,Consumer,20.0,44.2
+2023-10-16 04:42:48.336673344,Central,Gadget X,Accessories,1016.18,42,4.5,Enterprise,23.3,32.0
+2023-10-17 15:49:25.130260520,Central,Widget A,Accessories,1498.65,26,3.9,Small Business,,38.9
+2023-10-19 02:56:01.923847696,West,Widget B,Accessories,451.23,14,3.3,Small Business,9.4,18.0
+2023-10-20 14:02:38.717434868,East,Widget A,Electronics,5649.62,57,4.0,Small Business,16.1,32.1
+2023-10-22 01:09:15.511022044,North,Accessory Z,Tools,1369.89,37,4.2,Enterprise,25.2,28.8
+2023-10-23 12:15:52.304609216,North,Widget A,Tools,1148.53,58,4.2,Enterprise,29.7,29.1
+2023-10-24 23:22:29.098196392,Central,Tool Lite,Electronics,2029.87,21,4.6,Small Business,26.7,32.3
+2023-10-26 10:29:05.891783568,East,Accessory Z,Electronics,565.02,82,3.1,Consumer,11.1,28.0
+2023-10-27 21:35:42.685370740,North,Tool Lite,Electronics,1249.85,69,3.5,Consumer,5.9,22.2
+2023-10-29 08:42:19.478957916,North,Gadget X,Tools,618.01,3,4.4,Enterprise,14.7,16.0
+2023-10-30 19:48:56.272545088,East,Accessory Z,Tools,3815.95,87,3.6,Enterprise,22.2,35.7
+2023-11-01 06:55:33.066132264,North,Tool Pro,Tools,470.17,90,4.1,Consumer,14.8,14.1
+2023-11-02 18:02:09.859719436,North,Widget A,Electronics,1153.47,37,2.5,Small Business,14.5,32.7
+2023-11-04 05:08:46.653306612,East,Widget B,Electronics,1427.18,88,5.0,Consumer,25.1,14.3
+2023-11-05 16:15:23.446893788,West,Gadget Y,Electronics,1503.97,49,3.8,Enterprise,10.8,30.0
+2023-11-07 03:22:00.240480960,East,Widget A,Accessories,688.84,19,4.7,Small Business,25.8,34.9
+2023-11-08 14:28:37.034068136,North,Widget A,Electronics,535.71,89,3.8,Small Business,12.2,13.7
+2023-11-10 01:35:13.827655308,West,Gadget X,Electronics,696.85,85,4.2,Small Business,9.8,7.4
+2023-11-11 12:41:50.621242484,North,Tool Pro,Electronics,1673.48,12,4.9,Small Business,13.6,10.2
+2023-11-12 23:48:27.414829660,South,Gadget Y,Accessories,977.43,61,4.7,Enterprise,22.9,29.2
+2023-11-14 10:55:04.208416832,West,Accessory Z,Accessories,2073.45,41,3.9,Small Business,3.8,39.0
+2023-11-15 22:01:41.002004008,East,Accessory Z,Tools,1606.16,33,3.9,Enterprise,5.9,6.8
+2023-11-17 09:08:17.795591180,West,Accessory Z,Tools,177.41,50,4.6,Small Business,28.5,34.4
+2023-11-18 20:14:54.589178356,East,Tool Lite,Tools,1336.75,68,5.0,Consumer,5.3,18.7
+2023-11-20 07:21:31.382765528,East,Tool Lite,Electronics,6636.66,71,4.1,Small Business,17.0,24.1
+2023-11-21 18:28:08.176352704,North,Widget B,Accessories,3165.97,86,5.0,Consumer,17.4,42.2
+2023-11-23 05:34:44.969939880,South,Gadget Y,Tools,1537.04,33,3.9,Enterprise,14.7,18.3
+2023-11-24 16:41:21.763527052,North,Accessory Z,Tools,469.88,81,4.6,Small Business,19.3,23.6
+2023-11-26 03:47:58.557114228,North,Tool Lite,Tools,1606.87,24,4.7,Consumer,6.9,5.5
+2023-11-27 14:54:35.350701400,Central,Widget B,Tools,1981.88,61,3.8,Enterprise,16.6,8.3
+2023-11-29 02:01:12.144288576,South,Tool Pro,Tools,895.16,61,3.6,Enterprise,11.2,15.3
+2023-11-30 13:07:48.937875752,Central,Widget B,Accessories,1412.89,98,4.7,Small Business,19.9,6.1
+2023-12-02 00:14:25.731462924,East,Tool Lite,Accessories,3669.2,28,3.7,Enterprise,4.2,30.3
+2023-12-03 11:21:02.525050100,West,Gadget X,Tools,552.35,58,3.5,Small Business,17.1,22.1
+2023-12-04 22:27:39.318637272,East,Gadget X,Tools,470.3,43,3.6,Consumer,5.6,26.9
+2023-12-06 09:34:16.112224448,East,Accessory Z,Electronics,1908.67,41,3.7,Small Business,8.4,12.0
+2023-12-07 20:40:52.905811624,South,Gadget X,Tools,1581.35,39,4.5,Enterprise,6.6,16.8
+2023-12-09 07:47:29.699398796,North,Accessory Z,Electronics,2497.56,86,4.3,Small Business,5.5,31.6
+2023-12-10 18:54:06.492985972,West,Accessory Z,Tools,1729.93,49,4.4,Small Business,24.8,43.6
+2023-12-12 06:00:43.286573144,South,Tool Lite,Accessories,696.31,17,4.3,Enterprise,8.6,7.0
+2023-12-13 17:07:20.080160320,North,Gadget X,Tools,1549.6,98,3.6,Small Business,27.8,40.6
+2023-12-15 04:13:56.873747492,East,Accessory Z,Tools,439.79,70,4.4,Small Business,29.1,28.1
+2023-12-16 15:20:33.667334668,North,Gadget Y,Electronics,897.62,70,4.7,Small Business,17.1,27.6
+2023-12-18 02:27:10.460921844,Central,Tool Pro,Electronics,1639.65,98,4.4,Enterprise,4.3,25.0
+2023-12-19 13:33:47.254509016,Central,Widget B,Tools,821.88,65,4.3,Small Business,11.2,7.8
+2023-12-21 00:40:24.048096192,Central,Widget B,Electronics,7898.61,74,3.5,Enterprise,23.9,8.6
+2023-12-22 11:47:00.841683364,South,Tool Lite,Electronics,241.35,85,4.1,Enterprise,11.0,29.0
+2023-12-23 22:53:37.635270540,North,Gadget X,Electronics,707.69,5,3.5,Consumer,2.6,18.6
+2023-12-25 10:00:14.428857716,Central,Gadget X,Tools,517.9,2,4.0,Small Business,16.7,41.7
+2023-12-26 21:06:51.222444888,South,Accessory Z,Tools,626.23,22,3.0,Enterprise,25.4,21.3
+2023-12-28 08:13:28.016032064,Central,Widget A,Electronics,655.63,57,3.0,Enterprise,23.9,10.7
+2023-12-29 19:20:04.809619236,Central,Accessory Z,Tools,379.5,66,3.9,Enterprise,5.3,33.6
+2023-12-31 06:26:41.603206412,Central,Tool Pro,Tools,2002.52,74,3.7,Enterprise,20.2,16.7
+2024-01-01 17:33:18.396793584,South,Gadget Y,Tools,707.91,98,4.1,Enterprise,6.6,26.0
+2024-01-03 04:39:55.190380760,South,Widget B,Tools,1249.95,16,3.9,Enterprise,6.5,32.9
+2024-01-04 15:46:31.983967936,Central,Accessory Z,Electronics,774.44,51,4.0,Small Business,26.2,41.0
+2024-01-06 02:53:08.777555108,South,Widget A,Tools,630.99,39,4.4,Small Business,7.5,36.7
+2024-01-07 13:59:45.571142284,North,Widget A,Tools,4178.98,86,3.7,Small Business,7.9,32.1
+2024-01-09 01:06:22.364729456,East,Accessory Z,Accessories,2294.67,76,3.9,Small Business,0.0,32.2
+2024-01-10 12:12:59.158316632,Central,Tool Lite,Tools,246.03,88,4.9,Enterprise,26.1,42.8
+2024-01-11 23:19:35.951903808,West,Widget B,Electronics,226.04,40,4.0,Consumer,23.8,16.8
+2024-01-13 10:26:12.745490980,East,Tool Lite,Electronics,2525.23,38,3.9,Consumer,18.8,5.0
+2024-01-14 21:32:49.539078156,North,Gadget Y,Tools,723.51,60,4.0,Consumer,22.5,15.9
+2024-01-16 08:39:26.332665328,East,Widget A,Accessories,293.16,59,3.9,Consumer,4.6,13.7
+2024-01-17 19:46:03.126252504,Central,Widget A,Tools,2531.55,10,3.6,Consumer,13.7,31.5
+2024-01-19 06:52:39.919839680,North,Tool Pro,Tools,1255.51,99,3.4,Small Business,,30.3
+2024-01-20 17:59:16.713426852,East,Gadget Y,Tools,1341.12,64,3.5,Enterprise,2.8,28.7
+2024-01-22 05:05:53.507014028,Central,Widget A,Tools,2095.68,63,4.5,Small Business,14.6,5.6
+2024-01-23 16:12:30.300601200,West,Gadget Y,Electronics,384.53,49,3.6,Small Business,27.6,34.2
+2024-01-25 03:19:07.094188376,West,Widget B,Accessories,297.32,64,3.9,Small Business,1.2,17.9
+2024-01-26 14:25:43.887775548,West,Gadget X,Electronics,3884.55,32,4.4,Small Business,8.7,31.6
+2024-01-28 01:32:20.681362724,South,Widget A,Tools,347.33,7,3.8,Enterprise,6.2,27.3
+2024-01-29 12:38:57.474949900,South,Tool Pro,Accessories,412.49,21,4.4,Small Business,7.1,18.7
+2024-01-30 23:45:34.268537072,West,Widget B,Electronics,483.98,20,3.1,Consumer,27.3,10.4
+2024-02-01 10:52:11.062124248,West,Accessory Z,Electronics,5790.4,26,3.9,Small Business,14.0,8.8
+2024-02-02 21:58:47.855711420,Central,Gadget Y,Electronics,1627.35,68,4.0,Small Business,14.0,38.3
+2024-02-04 09:05:24.649298596,Central,Accessory Z,Accessories,2373.99,86,4.0,Enterprise,22.8,41.7
+2024-02-05 20:12:01.442885772,East,Tool Lite,Electronics,1282.97,15,3.0,Small Business,4.6,31.0
+2024-02-07 07:18:38.236472944,East,Widget B,Electronics,677.55,85,4.7,Consumer,14.6,9.1
+2024-02-08 18:25:15.030060120,West,Accessory Z,Electronics,1817.17,79,3.5,Small Business,12.9,21.1
+2024-02-10 05:31:51.823647292,East,Widget A,Electronics,315.67,86,4.2,Consumer,17.9,34.2
+2024-02-11 16:38:28.617234468,West,Gadget Y,Electronics,456.58,92,4.0,Small Business,30.0,36.2
+2024-02-13 03:45:05.410821640,West,Gadget X,Tools,1971.17,14,4.6,Small Business,23.1,9.7
+2024-02-14 14:51:42.204408816,Central,Widget B,Tools,370.26,27,5.0,Enterprise,11.9,5.0
+2024-02-16 01:58:18.997995992,South,Widget A,Electronics,942.69,40,3.2,Small Business,24.8,33.5
+2024-02-17 13:04:55.791583164,South,Tool Pro,Electronics,977.69,58,3.6,Small Business,5.1,19.3
+2024-02-19 00:11:32.585170340,North,Tool Lite,Electronics,718.43,28,4.1,Small Business,0.9,15.2
+2024-02-20 11:18:09.378757512,East,Gadget Y,Electronics,230.24,26,3.3,Small Business,6.1,5.5
+2024-02-21 22:24:46.172344688,North,Widget B,Tools,663.05,63,4.5,Consumer,10.2,26.6
+2024-02-23 09:31:22.965931864,South,Widget B,Tools,566.81,66,4.5,Enterprise,15.3,39.0
+2024-02-24 20:37:59.759519040,East,Gadget X,Electronics,1247.82,25,4.3,Consumer,18.5,43.3
+2024-02-26 07:44:36.553106208,South,Gadget X,Tools,1197.98,3,4.1,Enterprise,27.3,27.6
+2024-02-27 18:51:13.346693384,East,Tool Pro,Electronics,1483.81,72,4.8,Small Business,15.3,25.6
+2024-02-29 05:57:50.140280560,North,Tool Lite,Accessories,638.56,44,3.3,Enterprise,15.0,8.4
+2024-03-01 17:04:26.933867736,North,Tool Pro,Tools,1666.07,97,4.0,Enterprise,1.5,27.0
+2024-03-03 04:11:03.727454912,West,Widget A,Tools,315.83,42,3.6,Small Business,1.0,20.2
+2024-03-04 15:17:40.521042080,South,Widget A,Electronics,255.31,99,4.5,Enterprise,16.5,29.3
+2024-03-06 02:24:17.314629256,North,Tool Pro,Accessories,169.28,6,2.9,Small Business,13.1,20.5
+2024-03-07 13:30:54.108216432,East,Tool Lite,Electronics,735.51,39,4.0,Consumer,25.2,14.6
+2024-03-09 00:37:30.901803608,West,Tool Pro,Electronics,600.26,52,4.2,Enterprise,4.8,8.8
+2024-03-10 11:44:07.695390784,North,Tool Lite,Electronics,2062.04,23,3.4,Consumer,0.7,17.6
+2024-03-11 22:50:44.488977952,East,Tool Lite,Electronics,652.67,89,3.6,Small Business,13.5,8.9
+2024-03-13 09:57:21.282565128,North,Accessory Z,Accessories,1364.72,50,4.0,Small Business,7.1,12.1
+2024-03-14 21:03:58.076152304,North,Gadget Y,Tools,2101.98,43,4.6,Enterprise,1.5,44.5
+2024-03-16 08:10:34.869739480,East,Tool Lite,Electronics,633.3,19,3.4,Enterprise,,22.8
+2024-03-17 19:17:11.663326648,East,Gadget X,Tools,1391.92,69,3.5,Enterprise,3.3,26.3
+2024-03-19 06:23:48.456913824,East,Tool Lite,Accessories,2444.37,51,4.7,Enterprise,18.2,39.9
+2024-03-20 17:30:25.250501000,West,Tool Lite,Accessories,407.27,11,3.8,Enterprise,8.4,44.8
+2024-03-22 04:37:02.044088176,Central,Tool Lite,Tools,1118.65,12,3.5,Small Business,5.2,28.3
+2024-03-23 15:43:38.837675352,East,Accessory Z,Accessories,635.47,74,4.4,Consumer,11.4,37.5
+2024-03-25 02:50:15.631262520,South,Accessory Z,Accessories,428.55,8,3.7,Consumer,24.0,18.1
+2024-03-26 13:56:52.424849696,West,Widget A,Tools,320.81,24,4.6,Small Business,11.8,17.2
+2024-03-28 01:03:29.218436872,North,Accessory Z,Electronics,423.05,92,3.6,Enterprise,22.5,21.1
+2024-03-29 12:10:06.012024048,South,Gadget X,Electronics,1150.58,41,3.9,Enterprise,3.8,31.9
+2024-03-30 23:16:42.805611224,North,Gadget X,Accessories,302.27,36,4.6,Enterprise,23.2,32.3
+2024-04-01 10:23:19.599198392,North,Accessory Z,Electronics,705.86,85,3.9,Enterprise,7.1,17.6
+2024-04-02 21:29:56.392785568,Central,Tool Pro,Accessories,2101.81,72,4.5,Small Business,20.3,10.3
+2024-04-04 08:36:33.186372744,West,Gadget Y,Electronics,1570.59,55,4.0,Small Business,17.0,30.3
+2024-04-05 19:43:09.979959920,West,Accessory Z,Electronics,717.37,9,5.0,Small Business,27.9,10.1
+2024-04-07 06:49:46.773547096,South,Tool Lite,Electronics,4237.6,47,,Small Business,11.6,28.1
+2024-04-08 17:56:23.567134264,North,Widget B,Electronics,4986.2,15,3.2,Consumer,2.0,32.7
+2024-04-10 05:03:00.360721440,North,Gadget Y,Accessories,1119.79,48,4.3,Consumer,0.6,33.0
+2024-04-11 16:09:37.154308616,North,Gadget Y,Accessories,152.2,82,3.5,Enterprise,24.8,35.1
+2024-04-13 03:16:13.947895792,East,Gadget X,Accessories,2228.67,42,4.1,Consumer,15.7,39.9
+2024-04-14 14:22:50.741482968,West,Gadget Y,Tools,175.01,60,4.0,Consumer,23.3,25.0
+2024-04-16 01:29:27.535070136,East,Accessory Z,Electronics,3572.13,84,3.4,Enterprise,7.0,34.2
+2024-04-17 12:36:04.328657312,North,Tool Lite,Tools,2609.38,70,4.6,Small Business,10.4,29.8
+2024-04-18 23:42:41.122244488,Central,Tool Lite,Tools,4534.05,12,4.1,Small Business,0.9,12.5
+2024-04-20 10:49:17.915831664,West,Widget A,Tools,1350.48,2,3.8,Consumer,28.8,6.0
+2024-04-21 21:55:54.709418840,East,Tool Lite,Electronics,821.3,7,3.7,Consumer,20.0,16.4
+2024-04-23 09:02:31.503006008,East,Tool Lite,Tools,765.03,80,4.1,Enterprise,28.0,22.7
+2024-04-24 20:09:08.296593184,South,Gadget X,Tools,708.39,3,4.2,Small Business,8.0,29.7
+2024-04-26 07:15:45.090180360,North,Tool Lite,Accessories,2403.92,3,3.9,Small Business,18.3,39.0
+2024-04-27 18:22:21.883767536,South,Widget A,Accessories,1938.79,27,2.3,Small Business,20.4,12.8
+2024-04-29 05:28:58.677354704,West,Widget B,Tools,1207.35,40,4.0,Enterprise,9.5,10.0
+2024-04-30 16:35:35.470941880,North,Accessory Z,Tools,615.39,33,3.1,Consumer,25.4,43.5
+2024-05-02 03:42:12.264529056,North,Gadget X,Tools,8985.52,92,3.9,Small Business,28.4,9.3
+2024-05-03 14:48:49.058116232,North,Widget B,Electronics,2275.37,1,3.2,Consumer,26.5,24.1
+2024-05-05 01:55:25.851703408,North,Gadget X,Accessories,305.46,8,3.2,Consumer,22.2,28.4
+2024-05-06 13:02:02.645290576,Central,Tool Pro,Accessories,725.6,32,4.7,Small Business,8.3,26.7
+2024-05-08 00:08:39.438877752,West,Gadget Y,Tools,2310.97,48,3.8,Small Business,8.4,8.4
+2024-05-09 11:15:16.232464928,South,Tool Pro,Electronics,578.46,4,3.8,Small Business,28.9,7.3
+2024-05-10 22:21:53.026052104,North,Tool Lite,Electronics,1452.79,94,4.3,Enterprise,0.3,9.2
+2024-05-12 09:28:29.819639280,South,Widget B,Tools,2346.4,70,3.8,Small Business,21.5,28.4
+2024-05-13 20:35:06.613226448,South,Tool Lite,Electronics,72.91,19,5.0,Enterprise,21.2,26.8
+2024-05-15 07:41:43.406813624,North,Gadget Y,Accessories,1005.83,32,3.8,Small Business,18.7,14.3
+2024-05-16 18:48:20.200400800,South,Gadget X,Electronics,1037.91,9,4.2,Enterprise,29.7,30.5
+2024-05-18 05:54:56.993987976,South,Gadget Y,Electronics,788.67,12,4.6,Enterprise,9.4,37.8
+2024-05-19 17:01:33.787575152,East,Widget A,Accessories,1395.99,11,5.0,Enterprise,10.2,6.7
+2024-05-21 04:08:10.581162320,East,Gadget Y,Tools,1855.7,46,3.6,Enterprise,2.4,24.9
+2024-05-22 15:14:47.374749496,North,Widget A,Electronics,1228.61,16,3.7,Small Business,13.3,32.6
+2024-05-24 02:21:24.168336672,South,Gadget Y,Electronics,813.17,1,4.8,Small Business,7.8,15.1
+2024-05-25 13:28:00.961923848,East,Accessory Z,Electronics,1819.1,63,4.5,Small Business,10.3,17.3
+2024-05-27 00:34:37.755511024,East,Widget A,Tools,1140.52,21,4.6,Enterprise,25.0,29.5
+2024-05-28 11:41:14.549098192,Central,Widget B,Electronics,911.82,30,3.2,Enterprise,28.1,40.9
+2024-05-29 22:47:51.342685368,East,Tool Lite,Tools,383.82,13,4.9,Enterprise,5.6,37.4
+2024-05-31 09:54:28.136272544,North,Tool Lite,Accessories,314.15,34,3.5,Enterprise,11.2,28.3
+2024-06-01 21:01:04.929859720,North,Tool Pro,Electronics,378.05,4,,Consumer,27.9,34.2
+2024-06-03 08:07:41.723446896,East,Tool Lite,Accessories,1370.13,28,3.9,Enterprise,1.9,19.6
+2024-06-04 19:14:18.517034064,North,Gadget X,Accessories,1029.41,95,3.5,Small Business,2.8,30.6
+2024-06-06 06:20:55.310621240,East,Accessory Z,Electronics,335.55,59,3.2,Enterprise,4.9,23.6
+2024-06-07 17:27:32.104208416,Central,Gadget Y,Accessories,1838.55,27,3.0,Enterprise,17.9,12.6
+2024-06-09 04:34:08.897795592,East,Tool Pro,Tools,3292.65,69,4.1,Small Business,4.5,33.1
+2024-06-10 15:40:45.691382760,South,Gadget X,Accessories,679.4,25,3.1,Small Business,29.0,27.3
+2024-06-12 02:47:22.484969936,East,Gadget X,Tools,272.38,3,3.3,Enterprise,13.4,19.3
+2024-06-13 13:53:59.278557112,South,Widget A,Tools,621.85,97,3.9,Enterprise,15.0,41.5
+2024-06-15 01:00:36.072144288,East,Tool Lite,Tools,2172.36,68,2.4,Small Business,7.4,5.8
+2024-06-16 12:07:12.865731464,Central,Widget B,Accessories,1700.75,25,4.5,Enterprise,,17.6
+2024-06-17 23:13:49.659318632,South,Widget B,Tools,524.29,20,2.6,Enterprise,19.9,7.3
+2024-06-19 10:20:26.452905808,Central,Tool Pro,Tools,3703.14,34,4.0,Consumer,22.5,35.7
+2024-06-20 21:27:03.246492984,Central,Accessory Z,Accessories,3224.79,26,4.0,Small Business,22.6,33.1
+2024-06-22 08:33:40.040080160,North,Widget B,Electronics,610.08,5,4.3,Small Business,17.3,18.3
+2024-06-23 19:40:16.833667336,North,Gadget Y,Electronics,605.08,99,4.0,Small Business,27.1,32.0
+2024-06-25 06:46:53.627254504,North,Widget B,Electronics,682.48,61,5.0,Small Business,24.5,20.8
+2024-06-26 17:53:30.420841680,North,Tool Pro,Electronics,730.8,92,4.1,Small Business,22.7,35.3
+2024-06-28 05:00:07.214428856,North,Widget B,Electronics,2345.91,93,4.6,Small Business,1.7,23.2
+2024-06-29 16:06:44.008016032,West,Gadget Y,Accessories,1541.12,9,3.6,Small Business,0.2,21.5
+2024-07-01 03:13:20.801603208,North,Widget A,Electronics,2212.02,50,4.1,Enterprise,6.4,42.4
+2024-07-02 14:19:57.595190376,South,Accessory Z,Tools,1879.67,6,4.9,Small Business,19.9,15.0
+2024-07-04 01:26:34.388777552,West,Tool Pro,Electronics,4322.64,83,3.9,Small Business,12.3,9.8
+2024-07-05 12:33:11.182364728,North,Widget A,Accessories,469.89,60,4.1,Consumer,12.1,28.4
+2024-07-06 23:39:47.975951904,West,Widget A,Accessories,1486.66,44,4.6,Small Business,26.5,43.8
+2024-07-08 10:46:24.769539080,South,Widget A,Tools,192.66,11,3.6,Small Business,26.9,20.1
+2024-07-09 21:53:01.563126248,North,Gadget X,Accessories,382.39,66,2.7,Enterprise,27.3,7.5
+2024-07-11 08:59:38.356713424,West,Accessory Z,Electronics,1032.89,47,4.2,Small Business,9.4,18.6
+2024-07-12 20:06:15.150300600,East,Tool Lite,Accessories,1532.36,73,4.6,Enterprise,20.7,25.2
+2024-07-14 07:12:51.943887776,Central,Accessory Z,Electronics,1010.85,85,3.2,Enterprise,8.1,11.5
+2024-07-15 18:19:28.737474944,West,Gadget X,Accessories,696.62,88,4.4,Enterprise,5.7,31.3
+2024-07-17 05:26:05.531062120,West,Tool Lite,Electronics,803.09,98,,Small Business,5.5,44.9
+2024-07-18 16:32:42.324649296,South,Accessory Z,Tools,3279.85,86,2.6,Enterprise,10.3,23.1
+2024-07-20 03:39:19.118236472,North,Widget A,Tools,806.56,3,3.4,Small Business,12.9,19.2
+2024-07-21 14:45:55.911823648,West,Tool Pro,Electronics,4444.37,76,3.8,Consumer,24.9,21.0
+2024-07-23 01:52:32.705410816,West,Tool Lite,Electronics,2069.81,92,3.9,Enterprise,3.6,9.6
+2024-07-24 12:59:09.498997992,Central,Gadget Y,Electronics,1581.34,30,3.6,Small Business,22.0,40.3
+2024-07-26 00:05:46.292585168,South,Gadget Y,Electronics,422.05,90,3.5,Small Business,15.9,21.6
+2024-07-27 11:12:23.086172344,South,Widget B,Tools,2317.38,21,5.0,Enterprise,8.6,20.5
+2024-07-28 22:18:59.879759520,West,Tool Lite,Electronics,738.77,28,3.9,Consumer,14.8,31.4
+2024-07-30 09:25:36.673346688,South,Tool Pro,Electronics,421.76,90,3.6,Enterprise,9.0,22.7
+2024-07-31 20:32:13.466933864,Central,Gadget X,Electronics,1652.88,62,4.0,Small Business,17.9,30.9
+2024-08-02 07:38:50.260521040,Central,Widget A,Accessories,361.28,33,4.3,Small Business,13.0,7.5
+2024-08-03 18:45:27.054108216,South,Widget B,Electronics,595.98,85,4.0,Small Business,4.9,37.5
+2024-08-05 05:52:03.847695392,West,Gadget Y,Electronics,1087.79,35,3.9,Small Business,3.5,42.6
+2024-08-06 16:58:40.641282560,West,Gadget X,Electronics,6468.74,52,,Enterprise,16.4,31.0
+2024-08-08 04:05:17.434869736,North,Gadget X,Electronics,633.0,34,3.6,Enterprise,27.1,43.2
+2024-08-09 15:11:54.228456912,Central,Widget A,Accessories,760.08,41,3.6,Small Business,10.3,11.1
+2024-08-11 02:18:31.022044088,East,Tool Lite,Electronics,1970.17,51,4.2,Small Business,22.0,24.1
+2024-08-12 13:25:07.815631264,West,Gadget Y,Electronics,407.22,47,3.4,Consumer,19.8,29.1
+2024-08-14 00:31:44.609218432,South,Tool Pro,Tools,1562.82,82,4.2,Consumer,27.9,28.3
+2024-08-15 11:38:21.402805608,Central,Gadget X,Tools,2877.69,58,,Consumer,24.6,21.1
+2024-08-16 22:44:58.196392784,South,Widget A,Electronics,857.76,75,4.2,Small Business,17.0,18.5
+2024-08-18 09:51:34.989979960,North,Tool Pro,Tools,2492.21,57,3.8,Enterprise,19.7,10.1
+2024-08-19 20:58:11.783567136,Central,Tool Lite,Accessories,1384.59,23,3.2,Consumer,27.0,20.7
+2024-08-21 08:04:48.577154304,North,Gadget Y,Electronics,611.22,48,4.9,Small Business,12.0,11.5
+2024-08-22 19:11:25.370741480,South,Tool Lite,Tools,936.13,22,3.3,Enterprise,9.8,34.4
+2024-08-24 06:18:02.164328656,Central,Gadget X,Tools,809.32,17,4.5,Consumer,0.3,13.4
+2024-08-25 17:24:38.957915832,Central,Tool Pro,Tools,1022.38,69,4.4,Consumer,24.8,7.3
+2024-08-27 04:31:15.751503000,East,Tool Pro,Electronics,1239.14,11,3.9,Small Business,24.0,27.1
+2024-08-28 15:37:52.545090176,East,Tool Pro,Electronics,1755.59,94,3.8,Enterprise,3.1,28.8
+2024-08-30 02:44:29.338677352,South,Gadget X,Accessories,1647.37,15,2.9,Small Business,17.3,39.9
+2024-08-31 13:51:06.132264528,South,Gadget X,Accessories,156.75,91,4.2,Consumer,13.9,28.1
+2024-09-02 00:57:42.925851704,South,Tool Lite,Tools,1014.5,35,4.4,Consumer,3.6,18.8
+2024-09-03 12:04:19.719438872,East,Widget B,Electronics,327.82,33,3.3,Enterprise,29.4,37.1
+2024-09-04 23:10:56.513026048,West,Tool Lite,Tools,879.56,84,3.9,Enterprise,6.4,26.6
+2024-09-06 10:17:33.306613224,West,Gadget Y,Tools,993.24,16,4.0,Consumer,2.0,8.2
+2024-09-07 21:24:10.100200400,West,Widget A,Electronics,2394.47,34,4.4,Small Business,17.8,27.6
+2024-09-09 08:30:46.893787576,North,Tool Pro,Electronics,1070.53,66,4.0,Small Business,,41.3
+2024-09-10 19:37:23.687374744,South,Widget B,Accessories,1349.34,99,3.0,Consumer,1.0,20.9
+2024-09-12 06:44:00.480961920,North,Widget A,Electronics,2068.22,40,3.7,Enterprise,19.8,16.9
+2024-09-13 17:50:37.274549096,East,Widget B,Accessories,2928.37,28,4.1,Small Business,16.0,10.7
+2024-09-15 04:57:14.068136272,South,Accessory Z,Electronics,993.85,47,4.5,Enterprise,3.1,11.1
+2024-09-16 16:03:50.861723448,Central,Tool Lite,Electronics,1182.45,39,3.6,Small Business,5.2,22.3
+2024-09-18 03:10:27.655310616,South,Gadget X,Electronics,1105.46,70,5.0,Consumer,,28.8
+2024-09-19 14:17:04.448897792,North,Tool Pro,Tools,710.47,73,2.9,Small Business,8.9,8.2
+2024-09-21 01:23:41.242484968,North,Tool Lite,Accessories,592.71,20,3.7,Consumer,,42.6
+2024-09-22 12:30:18.036072144,West,Widget A,Electronics,178.13,1,4.0,Small Business,24.6,35.2
+2024-09-23 23:36:54.829659320,East,Accessory Z,Accessories,463.44,72,3.9,Enterprise,29.5,28.5
+2024-09-25 10:43:31.623246488,North,Accessory Z,Tools,264.3,87,3.3,Enterprise,7.8,38.1
+2024-09-26 21:50:08.416833664,North,Accessory Z,Accessories,2993.38,63,4.3,Small Business,29.1,8.2
+2024-09-28 08:56:45.210420840,West,Widget A,Electronics,1275.04,67,4.2,Small Business,12.9,24.1
+2024-09-29 20:03:22.004008016,North,Widget A,Accessories,991.53,4,4.0,Enterprise,10.4,30.2
+2024-10-01 07:09:58.797595192,West,Widget A,Tools,617.71,58,4.2,Small Business,1.5,38.1
+2024-10-02 18:16:35.591182360,West,Widget A,Electronics,1123.07,25,3.7,Small Business,1.6,36.3
+2024-10-04 05:23:12.384769536,North,Accessory Z,Electronics,556.47,47,3.0,Small Business,20.8,16.1
+2024-10-05 16:29:49.178356712,North,Accessory Z,Accessories,1260.44,38,3.6,Small Business,13.7,42.6
+2024-10-07 03:36:25.971943888,Central,Widget B,Accessories,1334.87,15,,Small Business,6.8,10.0
+2024-10-08 14:43:02.765531056,South,Tool Lite,Electronics,550.54,63,4.1,Enterprise,18.4,40.0
+2024-10-10 01:49:39.559118232,South,Tool Pro,Tools,542.2,21,4.0,Enterprise,7.6,43.8
+2024-10-11 12:56:16.352705408,West,Gadget X,Accessories,2367.9,99,4.3,Small Business,17.3,12.1
+2024-10-13 00:02:53.146292584,Central,Accessory Z,Accessories,1051.23,57,3.7,Small Business,10.8,33.9
+2024-10-14 11:09:29.939879760,Central,Gadget X,Accessories,587.09,53,4.0,Enterprise,24.7,6.6
+2024-10-15 22:16:06.733466928,West,Tool Lite,Tools,815.33,46,4.3,Consumer,24.6,21.2
+2024-10-17 09:22:43.527054104,South,Tool Lite,Electronics,488.59,14,3.9,Consumer,14.3,25.7
+2024-10-18 20:29:20.320641280,North,Gadget X,Electronics,1039.25,76,3.3,Small Business,10.5,28.2
+2024-10-20 07:35:57.114228456,West,Accessory Z,Electronics,2133.04,17,3.4,Enterprise,10.9,42.4
+2024-10-21 18:42:33.907815632,East,Gadget X,Tools,1072.62,39,4.5,Consumer,24.2,31.9
+2024-10-23 05:49:10.701402800,South,Widget B,Tools,7265.6,9,4.8,Small Business,9.8,24.3
+2024-10-24 16:55:47.494989976,Central,Gadget Y,Electronics,1536.23,99,4.7,Consumer,6.3,37.4
+2024-10-26 04:02:24.288577152,North,Accessory Z,Accessories,1318.12,77,4.1,Consumer,2.5,43.0
+2024-10-27 15:09:01.082164328,South,Accessory Z,Tools,530.26,79,3.3,Consumer,14.0,5.9
+2024-10-29 02:15:37.875751504,North,Tool Pro,Tools,906.12,82,4.0,Small Business,14.5,44.3
+2024-10-30 13:22:14.669338672,South,Widget A,Tools,588.04,97,4.9,Enterprise,25.2,8.4
+2024-11-01 00:28:51.462925848,North,Gadget Y,Tools,193.93,6,4.4,Small Business,6.6,37.6
+2024-11-02 11:35:28.256513024,North,Tool Lite,Electronics,2390.86,91,3.9,Small Business,11.4,16.2
+2024-11-03 22:42:05.050100200,North,Accessory Z,Electronics,728.39,23,4.4,Small Business,24.3,10.3
+2024-11-05 09:48:41.843687376,East,Gadget X,Electronics,596.86,59,3.2,Enterprise,24.7,22.6
+2024-11-06 20:55:18.637274544,West,Gadget Y,Electronics,1297.84,91,3.6,Enterprise,11.5,30.8
+2024-11-08 08:01:55.430861720,East,Tool Pro,Tools,1652.43,98,3.3,Consumer,13.8,20.2
+2024-11-09 19:08:32.224448896,Central,Tool Lite,Tools,848.42,46,4.3,Small Business,9.1,7.2
+2024-11-11 06:15:09.018036072,South,Widget A,Electronics,1094.35,38,4.4,Consumer,28.0,29.0
+2024-11-12 17:21:45.811623248,South,Widget A,Tools,1992.11,14,3.9,Consumer,3.6,41.1
+2024-11-14 04:28:22.605210416,Central,Tool Pro,Electronics,822.09,72,3.5,Small Business,28.0,20.3
+2024-11-15 15:34:59.398797592,North,Tool Pro,Accessories,1396.7,62,4.0,Small Business,,13.7
+2024-11-17 02:41:36.192384768,Central,Gadget X,Accessories,290.79,35,3.7,Consumer,15.9,22.7
+2024-11-18 13:48:12.985971944,North,Accessory Z,Electronics,406.24,19,3.5,Small Business,1.0,6.9
+2024-11-20 00:54:49.779559112,Central,Widget A,Tools,1780.11,30,4.2,Small Business,14.3,37.8
+2024-11-21 12:01:26.573146288,North,Tool Lite,Electronics,389.61,78,3.5,Enterprise,12.2,38.1
+2024-11-22 23:08:03.366733464,Central,Gadget Y,Tools,1322.54,84,3.1,Small Business,4.8,28.5
+2024-11-24 10:14:40.160320640,East,Tool Lite,Tools,974.96,25,3.2,Small Business,19.7,19.1
+2024-11-25 21:21:16.953907816,Central,Widget B,Electronics,819.28,40,3.0,Enterprise,,37.0
+2024-11-27 08:27:53.747494984,North,Widget B,Tools,565.23,88,4.1,Enterprise,16.9,27.2
+2024-11-28 19:34:30.541082160,East,Tool Pro,Electronics,2269.86,14,4.1,Enterprise,21.4,38.0
+2024-11-30 06:41:07.334669336,Central,Gadget X,Electronics,4376.1,26,4.1,Enterprise,2.1,30.3
+2024-12-01 17:47:44.128256512,East,Widget B,Tools,1394.31,87,4.4,Enterprise,12.5,36.4
+2024-12-03 04:54:20.921843688,East,Widget A,Electronics,1419.4,22,4.7,Small Business,3.5,28.9
+2024-12-04 16:00:57.715430856,West,Tool Lite,Tools,635.32,48,3.6,Consumer,18.4,21.6
+2024-12-06 03:07:34.509018032,South,Tool Lite,Electronics,421.21,83,4.2,Small Business,28.2,43.3
+2024-12-07 14:14:11.302605208,East,Tool Pro,Accessories,1062.32,51,3.1,Enterprise,19.9,26.6
+2024-12-09 01:20:48.096192384,East,Accessory Z,Electronics,503.21,3,4.8,Enterprise,2.3,29.2
+2024-12-10 12:27:24.889779560,Central,Accessory Z,Tools,265.58,42,3.3,Small Business,10.6,13.8
+2024-12-11 23:34:01.683366728,North,Gadget Y,Tools,2085.48,19,3.6,Small Business,16.5,30.0
+2024-12-13 10:40:38.476953904,South,Tool Pro,Electronics,2168.38,73,3.6,Consumer,12.1,27.9
+2024-12-14 21:47:15.270541080,Central,Gadget Y,Accessories,551.66,28,3.1,Small Business,25.0,12.4
+2024-12-16 08:53:52.064128256,Central,Accessory Z,Tools,1332.98,84,4.0,Consumer,24.4,7.4
+2024-12-17 20:00:28.857715432,South,Tool Pro,Tools,2444.42,45,4.1,Enterprise,18.4,29.2
+2024-12-19 07:07:05.651302600,East,Tool Pro,Tools,1292.1,71,3.9,Small Business,11.2,35.5
+2024-12-20 18:13:42.444889776,North,Tool Pro,Accessories,422.2,78,3.1,Enterprise,7.7,25.9
+2024-12-22 05:20:19.238476952,North,Accessory Z,Accessories,910.22,63,5.0,Consumer,3.2,14.1
+2024-12-23 16:26:56.032064128,South,Gadget Y,Tools,3169.88,73,4.3,Small Business,10.6,31.7
+2024-12-25 03:33:32.825651304,South,Gadget Y,Tools,1336.25,19,5.0,Enterprise,12.4,8.2
+2024-12-26 14:40:09.619238472,East,Tool Pro,Electronics,1688.01,47,3.5,Enterprise,20.3,22.7
+2024-12-28 01:46:46.412825648,North,Widget B,Electronics,1441.3,14,4.6,Enterprise,19.7,11.5
+2024-12-29 12:53:23.206412824,Central,Gadget X,Tools,553.13,38,4.5,Small Business,2.1,12.4
+2024-12-31 00:00:00.000000000,Central,Accessory Z,Electronics,667.36,53,3.8,Enterprise,11.9,13.1
